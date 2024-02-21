@@ -5,5 +5,5 @@ d = int(input("The common diff of the sequence :"))
 
 an = a+(n-1)*d
 
-print("The ",n,"th term in the sequence is :",an)
+print("The term in the sequence is :",an)
 

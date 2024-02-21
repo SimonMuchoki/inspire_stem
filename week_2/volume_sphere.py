@@ -2,5 +2,5 @@ import math
 
 r = float(input("Radius of the sphere :"))
 
-v = (4/3)*(22/7)*r**3
+v = (4/3)*(math.pi)*r**3
 print(v)
