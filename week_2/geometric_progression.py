@@ -1,5 +1,6 @@
 import math
- #general formular : a1 = ar**(n-1)
+# name : Simon
+#general formular : a1 = a2r**(n-1)
 
 a2 = int(input("The first term :"))
 r = int(input("The common ratio :"))

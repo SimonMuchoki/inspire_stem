@@ -5,3 +5,8 @@ print("i love watching, playing")
 print("--------")
 print("#######")
 print("**********")
+
+import math
+print(math.pi * 120) 
+print(2**2)
+print(10%3)
