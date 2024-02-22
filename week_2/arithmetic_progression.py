@@ -3,7 +3,7 @@
 
 import math
 
-n = int(input("The number of term of the sequence :"))
+n = float(input("The number of term of the sequence :"))
 a = int(input("The first term of the sequence :"))
 d = int(input("The common diff of the sequence :"))
 

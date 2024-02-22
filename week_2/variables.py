@@ -19,7 +19,7 @@ pi = 3.142
 fi_name =("simon") #can use double or single quotations
 
 # naming conventions
-# camel case : nameOfCity
+# camel case : nameOfCity withChromeProfile
 # snake case : name_of_city ; use underscore to to seperate words
 
 # variables change when the code is running
