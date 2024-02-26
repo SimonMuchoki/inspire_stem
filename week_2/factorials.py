@@ -7,3 +7,7 @@ for i in range(1,num + 1) :
     count *= i
 
 print(count)
+
+
+for x in range(0,20 ,2):
+    print(x)
