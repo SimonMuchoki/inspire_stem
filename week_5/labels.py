@@ -16,6 +16,6 @@ lbl.grid(column=200, row=100)
 
 lb2 = Label(window, text="Humidity: {0}".format(hum))
 
-lb2.grid(column=300, row=200)
+lb2.grid(column=200, row=300)
 
 window.mainloop()

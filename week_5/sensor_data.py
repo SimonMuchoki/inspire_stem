@@ -9,7 +9,7 @@ import threading
 window = Tk()
 
 window.title("DHT11 Sensor Data")
-window.geometry('600x400')
+window.geometry('600x600')
 
 # Matplotlib figure for plotting
 fig, ax = plt.subplots()
