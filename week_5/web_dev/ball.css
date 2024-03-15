@@ -1,0 +1,31 @@
+
+section{background-color:red}
+img{
+    width: 6cm;
+    height: 4cm;
+    margin: 50px;
+    padding: 60px;
+}   
+.header-1{
+    color: blueviolet;
+    
+}
+.ball{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#bouncing{
+    position:absolute ;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
