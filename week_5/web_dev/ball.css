@@ -15,6 +15,15 @@ img{
     height: 50px;
     width: 50px;
     border-radius: 50%;
+    animation: bounce 500ms infinite alternate;
+}
+@keyframes bounce{
+    0%{
+        top: 0%;
+    }
+    100%{
+        top: calc(100%-50px);
+    }
 }
 
 #bouncing{
